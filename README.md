@@ -11,9 +11,9 @@ Welcome to my professional GitHub portfolio! I specialize in **Identity & Access
 
 🚀 Transitioning to an **IAM Engineer** role by mastering:
 - ✅ Automation (PowerShell, Python)
-- ✅ Cloud IAM (Azure, GCP)
-- ✅ Governance tools (SailPoint, Saviynt)
-- ✅ Certifications (SC-900 ✅ | SC-300 🚀)
+- ✅ Cloud IAM (Azure, GCP, AWS)
+- ✅ Governance tools (SailPoint)
+- ✅ Certifications (SC-900 | SC-300)
 
 ## 📚 Certifications
 
